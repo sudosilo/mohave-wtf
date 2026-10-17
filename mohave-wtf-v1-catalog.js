@@ -1321,7 +1321,7 @@ var MOHAVE_CATALOG = [
  },
  {
   "id": "control-troll",
-  "url": "https://control-troll-sudosilo2-1771s-projects.vercel.app",
+  "url": "https://control-troll.vercel.app",
   "line": "Productivity and Utilities",
   "date": "2026-10-15",
   "title": "Control Troll",
@@ -1780,6 +1780,78 @@ var MOHAVE_CATALOG = [
    "hardware": "GPS location",
    "storage": "None required",
    "size": 49
+  }
+ },
+ {
+  "id": "field-twin-glaucous",
+  "url": "https://field-twin-glaucous.vercel.app",
+  "line": "Productivity and Utilities",
+  "date": "2026-10-17",
+  "title": "Field Twin Glaucous",
+  "tag": "The road, felt through the wheel.",
+  "blurb": "The Field Twin edition built around the steering wheel mount. Reads side, long and through vibration, road quality, engine frequency and bumps, then maps every trip alongside the Field Twin field map, inventory and roads.",
+  "ver": "",
+  "spec": {
+   "engine": "2D canvas graphics",
+   "audio": "None",
+   "online": "Supabase database",
+   "hardware": "GPS location, Motion sensors",
+   "storage": "Saves on device",
+   "size": 89
+  }
+ },
+ {
+  "id": "inkrunner",
+  "url": "https://inkrunner-gray.vercel.app",
+  "line": "Entertainment Software",
+  "date": "2026-10-17",
+  "title": "Inkrunner",
+  "tag": "Brace. Hop. Kick. Land it.",
+  "blurb": "A trick runner drawn in ink. Brace, hop left and right, kick into a one eighty or a three sixty, hit the boost, and race your own ghost for the best trick count.",
+  "ver": "1.0",
+  "spec": {
+   "engine": "2D canvas graphics",
+   "audio": "None",
+   "online": "Runs entirely in the browser",
+   "hardware": "Touchscreen or mouse",
+   "storage": "None required",
+   "size": 32
+  }
+ },
+ {
+  "id": "tapperator",
+  "url": "https://tapperator.vercel.app",
+  "line": "Multimedia and Audio",
+  "date": "2026-10-17",
+  "title": "Tapperator",
+  "tag": "Tap anything. It is a drum now.",
+  "blurb": "Turn taps on the phone into a drum kit using the motion sensor. Build pads, record and overdub loops snapped to sixteenth notes, calibrate your timing, and join a room to play along with other phones.",
+  "ver": "",
+  "spec": {
+   "engine": "2D canvas graphics",
+   "audio": "Web Audio synthesis and playback",
+   "online": "Real time multiplayer sync, Railway hosting",
+   "hardware": "Motion sensors",
+   "storage": "Saves on device",
+   "size": 36
+  }
+ },
+ {
+  "id": "mohave-wtf",
+  "url": "https://mohave-wtf.vercel.app",
+  "line": "Mohave Labs",
+  "date": "2026-10-17",
+  "title": "Mohave Tech Software Catalog",
+  "tag": "You are here.",
+  "blurb": "The official Mohave Tech product catalog, with screenshots, spec sheets and system requirements for every title in the line. You are reading it right now.",
+  "ver": "1.0",
+  "spec": {
+   "engine": "Standard HTML interface",
+   "audio": "None",
+   "online": "Live screenshot service",
+   "hardware": "Touchscreen or mouse",
+   "storage": "None required",
+   "size": 88
   }
  }
 ];
