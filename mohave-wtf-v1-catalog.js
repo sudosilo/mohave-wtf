@@ -411,17 +411,6 @@ var MOHAVE_CATALOG = [
   }
  },
  {
-  "id": "tunnelfx",
-  "url": "https://tunnelfx.vercel.app",
-  "line": "Multimedia and Audio",
-  "date": "2026-06-20",
-  "title": "TunnelFX",
-  "tag": "Into the tunnel.",
-  "blurb": "A tunnel visualizer from the MusicFX series. Full spec sheet in preparation.",
-  "ver": "",
-  "spec": null
- },
- {
   "id": "aliens-win",
   "url": "https://aliens-win.vercel.app",
   "line": "Entertainment Software",
